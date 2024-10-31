@@ -1,9 +1,11 @@
-#print("Shakil\t01716101537")
-#print("Shakil")
-print("\"Shakil\"")
+x="Hello World"
+print(x)
 
-'''
-print("Aiub")
-print("24 years old")
+#print(x[0:11])
+#print(x[:11])
+#print(x[0])
+#print(x[7:17])
 
-'''
+print(x[-5:-2])
+
+print(x[-5:])
