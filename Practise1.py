@@ -15,6 +15,7 @@ else:
     print("Odd")
 
  """
+#leap year
 year=int(input("Enter any Year : "))
 
 if year%4==0 and year%100!=0 :
