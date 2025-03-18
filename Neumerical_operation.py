@@ -1,3 +1,5 @@
+import math
+
 x=23
 y=4
 print("Addition =", x+y)
@@ -9,5 +11,5 @@ print("\n \n")
 
 print("Floor = ", x//y)
 print("Exponentiation ", x**y)
-import math
+
 print("Ceiling = " ,math.ceil(x/y))

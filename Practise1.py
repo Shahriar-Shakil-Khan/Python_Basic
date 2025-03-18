@@ -1,4 +1,4 @@
-"""
+
 ch=str(input("Enter any cheracter : "))
 
 if ch=="a" or ch=="e" or ch=="i" or ch=="o" or ch=="u" or ch=="A" or ch=="E" or ch=="I" or ch=="O" or ch=="U" :
@@ -14,7 +14,8 @@ if num%2==0 :
 else:
     print("Odd")
 
- """
+ 
+#leap year
 year=int(input("Enter any Year : "))
 
 if year%4==0 and year%100!=0 :
