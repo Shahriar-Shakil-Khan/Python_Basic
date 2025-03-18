@@ -33,8 +33,43 @@ print(a)
 x="Hello, Sabil"
 print(x.replace("S","N"))
 
-'''
+
 
 x="Shahriar , Ibne , Amin , Shakil"
 a=x.split(",")
 print(a)
+
+
+x="shakil"
+y="khan"
+
+print(x+" "+y)
+
+
+
+x="shakil"
+print(x.capitalize())
+
+
+
+# 20 + 30 = 50
+
+
+num1=20
+num2=30
+
+print(f"{num1}+{num2}={num1+num2}")
+
+
+
+age = 30
+place="Mymensingh"
+
+print(f"I am Shakil.I am {age}.I am from {place}.")
+
+'''
+
+x=51
+print(f"this product price is {x} taka")
+
+print(f"this product price is {x:.2f} taka")
